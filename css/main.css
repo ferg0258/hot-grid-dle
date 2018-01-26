@@ -19,3 +19,16 @@ html {
     box-sizing: inherit;
   }
 }
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+img {
+  position: absolute;
+}
+
+p {
+  position: relative;
+}
