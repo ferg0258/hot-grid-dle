@@ -25,10 +25,10 @@ html {
   width: 100%;
 }
 
-img {
-  position: absolute;
+figure {
+  position: relative;
 }
 
-p {
-  position: relative;
+figcaption {
+  position: absolute;
 }
